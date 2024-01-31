@@ -1,7 +1,10 @@
-* {
+body > * {
     font: "Times New Roman";
     color: black;
     padding: 20px;
+    border: 2px solid black;
+}
+body {
     border: 2px solid black;
 }
 
