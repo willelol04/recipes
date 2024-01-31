@@ -1,0 +1,20 @@
+* {
+    font: "Times New Roman";
+    color: black;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+h1, p, li, ul, ol, a {
+    border: none;
+
+}
+
+a {
+    color: blue;
+}
+
+li {
+    color: red;
+}
+
